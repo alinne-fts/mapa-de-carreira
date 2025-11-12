@@ -19,5 +19,5 @@ Este projeto valida minha competência na fase de **Desenvolvedora Júnior**, co
 
 **Alinne Tavares** 
 (Estudante de Desenvolvimento Web)
-*  [**GitHub:**](https://github.com/alinne-fts)
-*  [**LinkedIn:**](www.linkedin.com/in/alinne-fernanda)
+*  [**GitHub**](https://github.com/alinne-fts)
+*  [**LinkedIn**](www.linkedin.com/in/alinne-fernanda)
