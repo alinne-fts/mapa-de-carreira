@@ -13,10 +13,11 @@ Este projeto valida minha competência na fase de **Desenvolvedora Júnior**, co
 
 ### 🚀 Para Executar
 
-![Click aqui](https://alinne-fts.github.io/mapa-de-carreira/)
+[Click aqui](https://alinne-fts.github.io/mapa-de-carreira/)
 
-#### Desenvolvedora
+#### Contato
 
-**Alinne Tavares** (Estudante de Desenvolvimento Web)
-* **GitHub:** [[Link](https://github.com/alinne-fts)
-* **LinkedIn:** [Link](www.linkedin.com/in/alinne-fernanda)
+**Alinne Tavares** 
+Estudante de Desenvolvimento Web
+*  [**GitHub:**](https://github.com/alinne-fts)
+*  [**LinkedIn:**](www.linkedin.com/in/alinne-fernanda)
